@@ -9,7 +9,7 @@ print('EDA')
 print('-'*25)
 print('Shape of Dataset: ', dataset.shape)
 print('-'*25)
-print('Describe: \n', dataset.describe())
+# print('Describe: \n', dataset.describe())
 
 print('\n'*2)
 print('-'*25)
